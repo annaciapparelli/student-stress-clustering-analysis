@@ -36,14 +36,4 @@ The project includes:
 - Model comparison using CV and BIC
 - Regression mixture modeling with `flexmix`
 
-## Repository Structure
 
-```text
-.
-├── README.md
-├── student_stress_clustering_analysis.R
-├── .gitignore
-├── data/
-│   └── student_lifestyle_dataset.csv
-└── report/
-    └── student_stress_clustering_report.pdf
