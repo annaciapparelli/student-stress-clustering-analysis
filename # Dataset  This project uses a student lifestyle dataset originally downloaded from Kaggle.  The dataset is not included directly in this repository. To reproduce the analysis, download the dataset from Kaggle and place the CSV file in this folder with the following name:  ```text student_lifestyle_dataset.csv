@@ -1,16 +1,1 @@
-# Dataset
 
-This project uses the Student Lifestyle Dataset from Kaggle.
-
-## Source
-
-- Dataset title: Student Lifestyle Dataset
-- Alternative title: Daily Lifestyle and Academic Performance of Students
-- Creator: Sumit Kumar
-- Platform: Kaggle
-- Citation: 10.34740/kaggle/ds/6063456
-- License: Apache 2.0
-
-## Description
-
-The dataset contains information on 2,000 students and their daily habits, including study hours, extracurricular activities, sleep, socializing, physical activity, GPA, and stress level.
